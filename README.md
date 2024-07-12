@@ -15,7 +15,7 @@ The goal of this projet is to clean the world layoff dataset to ensure consisten
 2. Created row number for each row, partitioning it by each column
 3. Created staged table two to enable efficient dropping of duplicate column from staged table 1. This table will contain row number as a column
 4. Identified and deleted duplicate rows
-5. Standerdized data
+5. Standerdizing data
    - Trim
    - Words and spelling accuracy
    - Formatting data types
