@@ -2,7 +2,7 @@
 
 Data cleaning is important before any exploratory analysis is carried out on a dataset. This is to ensure that the data is accaurate, complete and consistent.
 It is also important to ensure that the data is more usable and accessible for analysis and data-driven decisions. 
-The goal of this projet is to clean the world layoff data set to ensure consistency and ensure that poor alogrithm is not built when exploratary data analysis is been carried out on it.
+The goal of this projet is to clean the world layoff dataset to ensure consistency and ensure that poor alogrithm is not built when exploratary data analysis is been carried out on it.
 
 ### TASKS
 - Identifying and removing duplicates
@@ -16,9 +16,9 @@ The goal of this projet is to clean the world layoff data set to ensure consiste
 3. Created staged table two to enable efficient dropping of duplicate column from staged table 1. This table will contain row number as a column
 4. Identified and deleted duplicate rows
 5. Standerdized data
- - Trim
- - Words and spelling accuracy
- - Formatting data types
+   - Trim
+   - Words and spelling accuracy
+   - Formatting data types
 6. Handling nulls
    - Replaced blank spaces with nulls
    - Populated data where needed
