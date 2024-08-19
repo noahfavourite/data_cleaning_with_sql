@@ -22,4 +22,4 @@ The goal of this project is to clean the world layoff dataset to ensure consiste
 6. Handling nulls
    - Replaced blank spaces with nulls
    - Populated data where needed
-7. Removed rows and columns not needed.
+7. Removed rows and columns not needed
