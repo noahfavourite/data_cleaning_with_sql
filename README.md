@@ -12,4 +12,4 @@ Effective data cleaning lays the foundation for meaningful analysis, enabling th
 - Handle null and blank values
 - Remove any column or rows not needed
 
-
+[World Layoff](https://github.com/noahfavourite/data_cleaning_with_sql/blob/main/layoffs.sql)
