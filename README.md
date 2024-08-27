@@ -1,8 +1,10 @@
 # data_cleaning_with_sql
 
-Data cleaning is important before any exploratory analysis is carried out on a dataset. This is to ensure that the data is accaurate, complete and consistent.
-It is also important to ensure that the data is more usable and accessible for analysis and data-driven decisions. 
-The goal of this project is to clean the world layoff dataset to ensure consistency and ensure that poor alogrithm is not built when exploratory data analysis is been carried out on it.
+Data cleaning is a critical step before performing any exploratory analysis on a dataset. It ensures that the data is accurate, complete, and consistent, which is essential for producing reliable insights. By cleaning the data, we also enhance its usability and accessibility for subsequent analysis and data-driven decision-making.
+
+In this project, I focused on cleaning two datasets: the World Layoff Dataset and the Pizza Runner Dataset. The goal was to ensure consistency and integrity across both datasets. I aimed to prepare the data for exploratory data analysis (EDA) by addressing issues such as missing values, duplicates, and inaccuracies. This preparation is vital to prevent building flawed algorithms or drawing incorrect conclusions during the EDA phase.
+
+Effective data cleaning lays the foundation for meaningful analysis, enabling the extraction of actionable insights and supporting informed decision-making processes.
 
 ### TASKS
 - Identifying and removing duplicates
@@ -10,16 +12,4 @@ The goal of this project is to clean the world layoff dataset to ensure consiste
 - Handle null and blank values
 - Remove any column or rows not needed
 
-### PROCESS
-1. Created staged table 1 and copy data from raw data into staged table 1
-2. Created row number for each row, partitioning it by each column
-3. Created staged table two to enable efficient dropping of duplicate column from staged table 1. This table will contain row number as a column
-4. Identified and deleted duplicate rows
-5. Standerdizing data
-   - Trim
-   - Words and spelling accuracy
-   - Formatting data types
-6. Handling nulls
-   - Replaced blank spaces with nulls
-   - Populated data where needed
-7. Removed rows and columns not needed
+
