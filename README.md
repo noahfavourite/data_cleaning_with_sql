@@ -13,3 +13,4 @@ Effective data cleaning lays the foundation for meaningful analysis, enabling th
 - Remove any column or rows not needed
 
 [World Layoff](https://github.com/noahfavourite/data_cleaning_with_sql/blob/main/layoffs.sql)
+[Pizza Runners](https://github.com/noahfavourite/data_cleaning_with_sql/blob/main/Pizza_data_cleaning.sql)
